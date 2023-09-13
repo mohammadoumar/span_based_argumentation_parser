@@ -1,5 +1,5 @@
 # An Empirical Study of Span Representation in Argumentation Structure Parsing
-## Citation
+## Citations
 ```
 @InProceedings{P19-1464,
   author = "Kuribayashi, Tatsuki
